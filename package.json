@@ -1,7 +1,6 @@
 {
   "name": "calculetr",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "path": "^0.12.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uditsharma348/calculater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uditsharma348/calculater/issues"
+  },
+  "homepage": "https://github.com/uditsharma348/calculater#readme",
+  "description": ""
 }
